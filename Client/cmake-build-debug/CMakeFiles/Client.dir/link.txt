@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread -g   CMakeFiles/Client.dir/src/connectionHandler.cpp.o CMakeFiles/Client.dir/src/BGSclient.cpp.o CMakeFiles/Client.dir/src/Task.cpp.o CMakeFiles/Client.dir/src/Translator.cpp.o CMakeFiles/Client.dir/src/EncoderDecoder.cpp.o  -o Client /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so 
